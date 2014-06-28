@@ -1,0 +1,18 @@
+{
+  "name": "turkcekatili",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Batuhan KATIRCI",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^2.21.1",
+    "redis": "^0.10.3",
+    "socket.io": "^1.0.6",
+    "string": "^1.9.0",
+    "twit": "^1.1.15"
+  }
+}
