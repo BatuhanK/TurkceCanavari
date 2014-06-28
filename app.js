@@ -11,8 +11,13 @@ io.sockets.on('connection', function (socket) {
     });
 });
 
+
+// HTTP server kullanmak istemiyorsanız bu kısmı silin
+
 http_server = require('./http');
 http_server();
+
+// * HTTP server kullanmak istemiyorsanız bu kısmı silin
 
 
 tweets = require('./tweets'); 
