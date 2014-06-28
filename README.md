@@ -31,3 +31,8 @@ Projeyi başlatma
 
 
 <i>http server portu http.js içerisinde belirtilmiştir, default <b>8080</b> dir</i>
+
+
+<i> Ufak tefek sıkıntıları olabilir, buradan issue oluşturursanız düzeltiriz </i>
+
+[@batuhan_katirci](http://twitter.com/@batuhan_katirci)
