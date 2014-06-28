@@ -12,7 +12,7 @@ io.sockets.on('connection', function (socket) {
 });
 
 
-// HTTP server kullanmak istemiyorsanız bu kısmı silin
+// HTTP server kullanmak istemiyorsanız bu kısmı silin, web klasörünü herhangi bir sunucuda çalıştırabilirsiniz
 
 http_server = require('./http');
 http_server();
