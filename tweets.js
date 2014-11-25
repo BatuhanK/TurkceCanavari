@@ -8,8 +8,8 @@ var T = new Twit({
 });
 
 
-var yanlislar = ["acaip","aferim","anfi","antreman","arasıra","arasöz","asvalt","ardarda","birarada","birşey","deyil","diyil","dinazor","eksoz","egzost","eşortman","eşşek","eylence","felan","farketmek","gurup","halikar","harfiyat","herbiri","hergün","herhangibir","herkez","herşey","hiçkimse","ilkönce","idda","kareografi","makina","malesef","menejer","menacer","metod","meyva","muhattap","müsade","orjinal","ritm","rütuş","sandöviç","sarmısak","sezeryan","süpriz","şartel","vejeteryan","yanlız","yalnış"];
-var dogrular = ["acayip","aferim","anfi","antrenman","ara sıra","ara söz","asfalt","art arda","bir arada","bir şey","değil","değil","dinozor","egzoz","egzoz","eşofman","eşek","eğlence","falan","fark etmek","grup","halükar","hafriyat","her biri","her gün","herhangi bir","herkes","her şey","hiç kimse","ilk önce","iddia","koreografi","makine","maalesef","menajer","menajer","method","meyve","muhatap","müsaade","orijinal","ritim","rötuş","sandviç","sarımsak","sezeryan","sürpriz","şalter","vejetaryen","yalnız","yanlış"];
+var yanlislar = ["acaip","aferim","anfi","antreman","arasıra","arasöz","asvalt","ardarda","birarada","birşey","deyil","diyil","dinazor","eksoz","egzost","eşortman","eşşek","eylence","felan","farketmek","gurup","halikar","harfiyat","herbiri","hergün","herhangibir","herkez","herşey","hiçkimse","ilkönce","idda","kareografi","makina","malesef","menejer","menacer","metod","meyva","muhattap","müsade","orjinal","ritm","rütuş","sandöviç","sarmısak","sezeryan","süpriz","şartel","vejeteryan","yada","yanlız","yalnış"];
+var dogrular = ["acayip","aferin","amfi","antrenman","ara sıra","ara söz","asfalt","art arda","bir arada","bir şey","değil","değil","dinozor","egzoz","egzoz","eşofman","eşek","eğlence","falan","fark etmek","grup","halükar","hafriyat","her biri","her gün","herhangi bir","herkes","her şey","hiç kimse","ilk önce","iddia","koreografi","makine","maalesef","menajer","menajer","method","meyve","muhatap","müsaade","orijinal","ritim","rötuş","sandviç","sarımsak","sezeryan","sürpriz","şalter","vejetaryen","ya da","yalnız","yanlış"];
 
 
 
