@@ -2,7 +2,6 @@ TurkceCanavari
 ==============
 
 Real-time Twitter yazım hataları, [demo](http://twikan.com)
-Geliştirilmeye şuradan devam ediliyor : https://github.com/xsuperbug/TurkceCanavari
 
 Neler gerekiyor
 ==============
