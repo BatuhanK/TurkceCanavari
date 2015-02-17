@@ -1,7 +1,7 @@
 TurkceCanavari
 ==============
 
-Real-time Twitter yazım hataları, [demo](http://twikan.com)
+Real-time Twitter yazım hataları
 
 Neler gerekiyor
 ==============
