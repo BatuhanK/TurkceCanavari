@@ -2,7 +2,7 @@ var redis = require("redis");
 var io = require('socket.io').listen(3333); // REDIS PORT
 client = redis.createClient();
 
-
+// zaa
 
 
 io.sockets.on('connection', function (socket) {
