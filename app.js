@@ -1,5 +1,5 @@
 var redis = require("redis");
-var io = require('socket.io').listen(3333); // REDIS PORT
+var io = require('socket.io').listen(3333); // socket.io PORT
 client = redis.createClient();
 
 // zaa
